@@ -19,4 +19,4 @@ create_project_hash
 
 # location : project.css("span.location-name").text
 
-project.css("ul.project-stats li")
+project.css("ul.project-stats li.first-funded")
